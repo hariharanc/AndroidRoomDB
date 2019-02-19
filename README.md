@@ -1,4 +1,4 @@
-# AndroidRoomDB
+# ROOMDB KOTLIN WITH MVVM
 
 **What is Room?**<br/>
 Room is part of the Android Architecture Components presented in the Google I/O 2016. It is not an ORM, it is a whole library that allows us to create and manipulate SQLite databases easier, by using annotations we can define our databases, its tables and operations; Room will automatically translate these annotations into SQLite instructions/queries to perform the correspondent operations into the DB engine.<br/>
